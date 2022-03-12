@@ -1,4 +1,5 @@
-# Indeed.com Simulation 
+# Indeed.com Simulation
+A prototype of Indeed.com developed as part of a group project.
 [https://youtu.be/J0RPAFwB-R8]
 ## Tech Stack
 1. ReactJs
