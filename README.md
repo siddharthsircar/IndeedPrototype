@@ -1,7 +1,11 @@
-# Indeed.com Simulation
-
-- CMPE 273 - Enterprise Distributed Systems - Final Project 
-- Title: Simulation of Indeed.com [https://youtu.be/J0RPAFwB-R8]
+# Indeed.com Simulation 
+[https://youtu.be/J0RPAFwB-R8]
+## Tech Stack
+1. ReactJs
+2. NodeJs
+3. Kafka
+4. Redis
+5. MongoDb
 
 # Run the project
 - Download the project.
